@@ -1,0 +1,13 @@
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserWinAuth\DispUserWinAuth\DispUserWinAuth\bin\DispUserWinAuth.dll.config
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserWinAuth\DispUserWinAuth\DispUserWinAuth\bin\DispUserWinAuth.dll
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserWinAuth\DispUserWinAuth\DispUserWinAuth\bin\DispUserWinAuth.pdb
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.csproj.CoreCompileInputs.cache
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.dll
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.pdb
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\bin\DispUserWinAuth.dll.config
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\bin\DispUserWinAuth.dll
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\bin\DispUserWinAuth.pdb
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.csprojResolveAssemblyReference.cache
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.csproj.CoreCompileInputs.cache
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.dll
+C:\Z KESHAV\00_Teams\05_RnD\Docker\DockerApplied\ShowUserNoWinAuth\DispUserWinAuth\DispUserWinAuth\obj\Debug\DispUserWinAuth.pdb
